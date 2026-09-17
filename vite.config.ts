@@ -7,6 +7,7 @@ export default defineConfig({
       input: {
         main: resolve(__dirname, 'index.html'),
         privacy: resolve(__dirname, 'privacybeleid/index.html'),
+        terms: resolve(__dirname, 'voorwaarden/index.html'),
       },
     },
   },

@@ -25,6 +25,7 @@ export function renderFooter(): string {
         <span>&copy; ${year} NogGoed</span>
         <nav class="footer-links">
           <a href="/privacybeleid/">Privacybeleid</a>
+          <a href="/voorwaarden/">Voorwaarden</a>
           <a href="mailto:info@noggoed.nl">info@noggoed.nl</a>
         </nav>
       </div>
